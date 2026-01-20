@@ -88,14 +88,14 @@ O cliente se conectará ao servidor e exibirá o menu de opções no terminal.
 
 ## 🎓 Contexto Acadêmico
 
-Projeto desenvolvido com fins **didáticos**, voltado ao aprendizado de **Java RMI e sistemas distribuídos**, comum em disciplinas de Engenharia da Computação e áreas afins.
+Projeto desenvolvido com fins **didáticos**, voltado ao aprendizado de **Java RMI e sistemas distribuídos**.
 
 ---
 
 ## 👤 Autor
 
 **Filipe Nogueira**
-Curso: Engenharia da Computação
+Curso: Engenharia da Computação - UTFPR
 
 ---
 
